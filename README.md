@@ -23,6 +23,7 @@ Design principles:
 ## Structure
 
 ```
+CHANGELOG.md
 skills/
 └── msp-work-record/
     └── SKILL.md
@@ -30,4 +31,4 @@ skills/
 
 ## Versioning
 
-Each skill follows [Semantic Versioning](https://semver.org/). The current version is noted at the top of each `SKILL.md`.
+Each skill follows [Semantic Versioning](https://semver.org/). The current version is noted at the top of each `SKILL.md`, and changes are recorded in [CHANGELOG.md](CHANGELOG.md).
